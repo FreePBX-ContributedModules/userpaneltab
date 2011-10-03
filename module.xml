@@ -1,0 +1,18 @@
+<module>
+	<rawname>userpaneltab</rawname>
+	<name>User Panel</name>
+	<version>2.10.0.0</version>
+	<type>tool</type>
+	<description>
+		Provides a Module Menu that launches the ARI User Panel. Requires the User Portal (ARI) to be installed
+	</description>
+	<category>Admin</category>
+	<menuitems>
+		<userpaneltab category="User Panel" href="/recordings" target="ari" access="all">User Panel</userpaneltab>
+	</menuitems>
+	<depends>
+		<module>fw_ari</module>
+	</depends>
+	<location>release/2.10/userpaneltab-2.10.0.0.tgz</location>
+	<md5sum>407e282c3f20e39a630dae0e1486f8d1</md5sum>
+</module>
