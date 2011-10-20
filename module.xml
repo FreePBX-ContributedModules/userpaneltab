@@ -3,6 +3,7 @@
 	<name>User Panel</name>
 	<version>2.10.0.0</version>
 	<type>tool</type>
+	<repo>standard</repo>
 	<description>
 		Provides a Module Menu that launches the ARI User Panel. Requires the User Portal (ARI) to be installed
 	</description>
