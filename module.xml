@@ -1,9 +1,11 @@
 <module>
 	<rawname>userpaneltab</rawname>
 	<name>User Panel</name>
+	<repo>standard</repo>
 	<version>2.10.0.0</version>
 	<type>tool</type>
-	<repo>standard</repo>
+	<publisher>FreePBX</publisher>
+	<license>GPLv2+</license>
 	<description>
 		Provides a Module Menu that launches the ARI User Panel. Requires the User Portal (ARI) to be installed
 	</description>
