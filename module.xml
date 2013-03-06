@@ -11,7 +11,13 @@
 	</description>
 	<category>Admin</category>
 	<menuitems>
-		<userpaneltab category="User Panel" href="/recordings" target="ari" access="all">User Panel</userpaneltab>
+		<userpaneltab 
+			category="User Panel" 
+			href="/recordings" 
+			target="ari" 
+			access="all"
+			requires_auth="false"
+			>User Panel</userpaneltab>
 	</menuitems>
 	<depends>
 		<module>fw_ari</module>
