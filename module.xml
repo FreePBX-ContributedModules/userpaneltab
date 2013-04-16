@@ -25,6 +25,6 @@
 	<depends>
 		<module>fw_ari</module>
 	</depends>
-	<location>release/2.10/userpaneltab-2.10.0.0.tgz</location>
-	<md5sum>aee61940548a1fff0f43b35bd88043b5</md5sum>
+	<location>release/2.11/userpaneltab-2.11.0.0.tgz</location>
+	<md5sum>203c557806c1e9c50bdc7c99cec87fd6</md5sum>
 </module>
